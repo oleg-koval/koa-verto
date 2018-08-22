@@ -2,13 +2,11 @@
 
 [![Package Quality][pq-image]][pq-link]
 [![Build status][ci-image]][ci-url]
-[![Coverage Status][coveralls-image]][coveralls-link]
+[![Coverage Status][coveralls-image]][coveralls-url]
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![linted by sexy yo!][sexy-image]][sexy-url]
 [![semantic-release][semantic-image]][semantic-url]
 [![standard style][standard-image]][standard-url]
-<!-- [![]] coverage -->
-
 
 > Middleware that adds headers `X-Service-Name` & `X-Service-Version` to the response of [Koa][koalink]. Inspired by [koa-version-header][koa-version-header-link]
 
