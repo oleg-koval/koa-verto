@@ -2,11 +2,11 @@
 
 [![Build status][ci-image]][ci-url]
 [![Package Quality][pq-image]][pq-link]
-<!-- [![]] coverage -->
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![linted by sexy yo!][sexy-image]][sexy-url]
 [![semantic-release][semantic-image]][semantic-url]
 [![standard style][standard-image]][standard-url]
+<!-- [![]] coverage -->
 
 
 > Middleware that adds headers `X-Service-Name` & `X-Service-Version` to the response of [Koa][koalink]. Inspired by [koa-version-header][koa-version-header-link]
@@ -14,9 +14,9 @@
 Tested with:
 - Koa version `2.5.2`
 - Node versions:
-  - x
-  - xx
-  - xxx
+  - 10
+  - 9
+  - 8
 
 ## Installation
 
@@ -82,7 +82,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [yarnlink]:https://yarnpkg.com/en/
 [npm-icon]: https://nodei.co/npm/koa-verto.png?downloads=true
 [npm-url]: https://npmjs.org/package/koa-verto
-[ci-image]: https://travis-ci.org/oleg-koval/koa-verto.png?branch=master
+[ci-image]: https://travis-ci.org/oleg-koval/koa-verto.svg?branch=master
 [ci-url]: https://travis-ci.org/oleg-koval/koa-verto
 [greenkeeper-image]: https://badges.greenkeeper.io/oleg-koval/koa-verto.svg
 [greenkeeper-url]: https://greenkeeper.io/
