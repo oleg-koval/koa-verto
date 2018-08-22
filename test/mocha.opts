@@ -1,0 +1,8 @@
+--trace-warnings
+--reporter spec
+--ui tdd
+--recursive
+--bail
+--check-leaks
+--exit
+--require test/support/
