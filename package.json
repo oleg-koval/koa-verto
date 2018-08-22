@@ -1,0 +1,48 @@
+{
+  "name": "koa-verto",
+  "version": "0.0.0-development",
+  "description": "Middleware for Koa that adds version header (x-version) to the response",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "mocha",
+    "travis-deploy-once": "travis-deploy-once",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oleg-koval/koa-verto.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "header",
+    "version",
+    "x-version",
+    "x-name",
+    "response",
+    "semver",
+    "service",
+    "utility"
+  ],
+  "author": "Oleg Koval <kvl.olg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oleg-koval/koa-verto/issues"
+  },
+  "homepage": "https://github.com/oleg-koval/koa-verto#readme",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "chai": "^4.1.2",
+    "eslint": "^5.4.0",
+    "eslint-config-sexy": "^4.0.0",
+    "koa": "^2.5.2",
+    "mocha": "^5.2.0",
+    "semantic-release": "^15.9.9",
+    "travis-deploy-once": "^5.0.2"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "semver": "^5.5.1"
+  }
+}
