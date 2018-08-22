@@ -1,7 +1,5 @@
 language: node_js
-cache:
-  directories:
-    - ~/.npm
+cache: false
 notifications:
   email: true
 node_js:
