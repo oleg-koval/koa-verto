@@ -1,7 +1,8 @@
 # koa-verto
 
-[![Build status][ci-image]][ci-url]
 [![Package Quality][pq-image]][pq-link]
+[![Build status][ci-image]][ci-url]
+[![Coverage Status][coveralls-image]][coveralls-link]
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![linted by sexy yo!][sexy-image]][sexy-url]
 [![semantic-release][semantic-image]][semantic-url]
@@ -80,18 +81,20 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [nodejslink]:https://nodejs.org/
 [npmlink]:https://www.npmjs.com/
 [yarnlink]:https://yarnpkg.com/en/
-[npm-icon]: https://nodei.co/npm/koa-verto.png?downloads=true
-[npm-url]: https://npmjs.org/package/koa-verto
-[ci-image]: https://travis-ci.org/oleg-koval/koa-verto.svg?branch=master
-[ci-url]: https://travis-ci.org/oleg-koval/koa-verto
-[greenkeeper-image]: https://badges.greenkeeper.io/oleg-koval/koa-verto.svg
-[greenkeeper-url]: https://greenkeeper.io/
-[sexy-image]: https://img.shields.io/badge/linted%20by-sexy%20yo!-brightgreen.svg
-[sexy-url]: https://github.com/markelog/eslint-config-sexy
-[semantic-image]: https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
-[semantic-url]: https://github.com/semantic-release/semantic-release
-[standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
-[standard-url]: http://standardjs.com/
+[npm-icon]:https://nodei.co/npm/koa-verto.png?downloads=true
+[npm-url]:https://npmjs.org/package/koa-verto
+[ci-image]:https://travis-ci.org/oleg-koval/koa-verto.svg?branch=master
+[ci-url]:https://travis-ci.org/oleg-koval/koa-verto
+[greenkeeper-image]:https://badges.greenkeeper.io/oleg-koval/koa-verto.svg
+[greenkeeper-url]:https://greenkeeper.io/
+[sexy-image]:https://img.shields.io/badge/linted%20by-sexy%20yo!-brightgreen.svg
+[sexy-url]:https://github.com/markelog/eslint-config-sexy
+[semantic-image]:https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
+[semantic-url]:https://github.com/semantic-release/semantic-release
+[standard-image]:https://img.shields.io/badge/code%20style-standard-brightgreen.svg
+[standard-url]:http://standardjs.com/
 [koa-version-header-link]:https://github.com/bahmutov/koa-version-header
-[pq-image]: http://npm.packagequality.com/badge/koa-verto.png
-[pq-link]: http://packagequality.com/#?package=koa-verto
+[pq-image]:http://npm.packagequality.com/shield/koa-verto.svg
+[pq-link]:http://packagequality.com/#?package=koa-verto
+[coveralls-image]:https://coveralls.io/repos/github/oleg-koval/koa-verto/badge.svg?branch=master
+[coveralls-url]:https://coveralls.io/github/oleg-koval/koa-verto?branch=add-code-coverage
