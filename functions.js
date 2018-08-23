@@ -17,6 +17,13 @@ const validateCustomVersion = options => propSatisfies(isValidVersion, 'version'
 const getCustomName = options => prop('name', options);
 const getCustomVersion = options => prop('version', options);
 
+const getValidHeaderValue = (options, validator, getter, valueFromPackage) => {
+  if (validator(options)) {
+    return getter(options);
+  }
+  return valueFromPackage;
+};
+
 const setVersionHeaders = (options) => {
   options = options || {};
   return async (ctx, next) => {
@@ -31,8 +38,16 @@ const setVersionHeaders = (options) => {
     const serviceVersion = getPackageVersion(packageFile);
     assert(isValidVersion(serviceVersion), 'Version is not semver');
 
-    ctx.set('X-Service-Name', validateCustomName(options) ? getCustomName(options) : serviceName);
-    ctx.set('X-Service-Version', validateCustomVersion(options) ? getCustomVersion(options) : serviceVersion);
+    const name = getValidHeaderValue(options, validateCustomName, getCustomName, serviceName);
+    const version = getValidHeaderValue(
+      options,
+      validateCustomVersion,
+      getCustomVersion,
+      serviceVersion
+    );
+
+    ctx.set('X-Service-Name', name);
+    ctx.set('X-Service-Version', version);
   };
 };
 
