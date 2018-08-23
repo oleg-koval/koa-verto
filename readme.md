@@ -6,7 +6,6 @@
 [![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![linted by sexy yo!][sexy-image]][sexy-url]
 [![semantic-release][semantic-image]][semantic-url]
-[![standard style][standard-image]][standard-url]
 
 > Middleware that adds headers `X-Service-Name` & `X-Service-Version` to the response of [Koa][koalink]. Inspired by [koa-version-header][koa-version-header-link]
 
@@ -89,8 +88,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [sexy-url]:https://github.com/markelog/eslint-config-sexy
 [semantic-image]:https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-url]:https://github.com/semantic-release/semantic-release
-[standard-image]:https://img.shields.io/badge/code%20style-standard-brightgreen.svg
-[standard-url]:http://standardjs.com/
 [koa-version-header-link]:https://github.com/bahmutov/koa-version-header
 [pq-image]:http://npm.packagequality.com/shield/koa-verto.svg
 [pq-link]:http://packagequality.com/#?package=koa-verto
