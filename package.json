@@ -41,7 +41,7 @@
     "eslint-config-sexy": "^4.0.0",
     "koa": "^2.5.2",
     "mocha": "^5.2.0",
-    "nyc": "^12.0.2",
+    "nyc": "^13.0.1",
     "semantic-release": "^15.9.9",
     "superagent": "^3.8.3",
     "travis-deploy-once": "^5.0.2"
