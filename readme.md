@@ -1,5 +1,7 @@
 # koa-verto
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/29f657a1d6484ec5bd4bb76f02fc73fc)](https://app.codacy.com/app/oleg-koval/koa-verto?utm_source=github.com&utm_medium=referral&utm_content=oleg-koval/koa-verto&utm_campaign=Badge_Grade_Dashboard)
+
 [![Package Quality][pq-image]][pq-link]
 [![Build status][ci-image]][ci-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
