@@ -38,7 +38,7 @@
     "chai": "^4.1.2",
     "coveralls": "^3.0.2",
     "eslint": "^5.4.0",
-    "eslint-config-sexy": "^4.0.0",
+    "eslint-config-sexy": "^5.0.0",
     "koa": "^2.5.2",
     "mocha": "^5.2.0",
     "nyc": "^13.0.1",
