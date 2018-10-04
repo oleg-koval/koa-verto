@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oleg-koval/koa-verto.git"
+    "url": "https://github.com/oleg-koval/koa-verto"
   },
   "keywords": [
     "koa",
