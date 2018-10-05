@@ -5,4 +5,4 @@
 --bail
 --check-leaks
 --exit
---require test/support/
+--require test/setup.js
