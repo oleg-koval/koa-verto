@@ -9,7 +9,7 @@
     "nyc": "nyc npm test && nyc report --reporter=text-lcov",
     "lint": "eslint index.js",
     "test:coverage": "npm run nyc | coveralls",
-    "travis-deploy-once": "travis-deploy-once --pro",
+    "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release"
   },
   "repository": {
