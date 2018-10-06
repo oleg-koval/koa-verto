@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "Middleware for Koa that adds version header (x-version) to the response",
   "main": "index.js",
+  "types": "index.d.ts",
   "private": false,
   "scripts": {
     "test": "mocha",
