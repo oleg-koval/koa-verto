@@ -9,11 +9,11 @@ jobs:
           name: install
           command: npm install
       - run:
-        name: lint
-        command: npm run lint
+          name: lint
+          command: npm run lint
       - run:
-        name: test-coverage
-        command: npm run test:coverage
+          name: test-coverage
+          command: npm run test:coverage
       - run:
           name: release
           command: npm run semantic-release || true
