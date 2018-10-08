@@ -12,7 +12,10 @@ jobs:
           name: lint
           command: npm run lint
       - run:
-          name: test-coverage
+          name: test
+          command: npm test
+      - run:
+          name: coverage
           command: npm run test:coverage
       - run:
           name: release
