@@ -27,7 +27,9 @@
     "response",
     "semver",
     "service",
-    "utility"
+    "utility",
+    "koa version header",
+    "koa-version-header"
   ],
   "author": "Oleg Koval <kvl.olg@gmail.com>",
   "license": "MIT",
