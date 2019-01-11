@@ -45,7 +45,7 @@
     "koa": "^2.5.2",
     "mocha": "^5.2.0",
     "nyc": "^13.0.1",
-    "semantic-release": "^15.9.17",
+    "semantic-release": "^15.13.3",
     "superagent": "^4.0.0",
     "travis-deploy-once": "^5.0.9"
   },
