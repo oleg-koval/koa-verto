@@ -38,16 +38,16 @@
   },
   "homepage": "https://github.com/oleg-koval/koa-verto#readme",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "coveralls": "^3.0.2",
-    "eslint": "^5.4.0",
-    "eslint-config-sexy": "^5.0.0",
-    "koa": "^2.5.2",
-    "mocha": "^5.2.0",
-    "nyc": "^14.1.1",
-    "semantic-release": "^15.9.17",
-    "superagent": "^5.1.0",
-    "travis-deploy-once": "^5.0.9"
+    "chai": "4.2.0",
+    "coveralls": "3.0.5",
+    "eslint": "5.15.3",
+    "eslint-config-sexy": "5.0.0",
+    "koa": "2.7.0",
+    "mocha": "5.2.0",
+    "nyc": "14.1.1",
+    "semantic-release": "15.13.3",
+    "superagent": "5.1.0",
+    "travis-deploy-once": "5.0.11"
   },
   "dependencies": {
     "ramda": "^0.26.0",
