@@ -1,11 +1,9 @@
 # koa-verto
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/29f657a1d6484ec5bd4bb76f02fc73fc)](https://app.codacy.com/app/oleg-koval/koa-verto?utm_source=github.com&utm_medium=referral&utm_content=oleg-koval/koa-verto&utm_campaign=Badge_Grade_Dashboard)
-
 [![Package Quality][pq-image]][pq-link]
 [![CircleCI][ci-image]][ci-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
-[![Greenkeeper badge][greenkeeper-image]][greenkeeper-url]
 [![linted by sexy yo!][sexy-image]][sexy-url]
 [![semantic-release][semantic-image]][semantic-url]
 
@@ -82,10 +80,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [yarnlink]:https://yarnpkg.com/en/
 [npm-icon]:https://nodei.co/npm/koa-verto.png?downloads=true
 [npm-url]:https://npmjs.org/package/koa-verto
-[ci-image]:https://circleci.com/gh/oleg-koval/koa-verto.svg?style=svg&circle-token=429e187127f1ef2268bdebc45b9ca804003b8ffa
-[ci-url]:https://circleci.com/gh/oleg-koval/koa-verto/tree/master
-[greenkeeper-image]:https://badges.greenkeeper.io/oleg-koval/koa-verto.svg
-[greenkeeper-url]:https://greenkeeper.io/
+[ci-image]:https://github.com/oleg-koval/koa-verto/workflows/Continuous%20Integration/badge.svg?branch=master
+[ci-url]:https://github.com/oleg-koval/koa-verto/actions
 [sexy-image]:https://img.shields.io/badge/linted%20by-sexy%20yo!-brightgreen.svg
 [sexy-url]:https://github.com/markelog/eslint-config-sexy
 [semantic-image]:https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
