@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/oleg-koval/koa-verto/compare/v1.2.3...v1.2.4) (2019-11-12)
+
+
+### Build System
+
+* **deps-dev:** Bump semantic-release-npm-github-publish ([f15bc3dc62b9554ab7ef51c4c9891b3fc80da2cd](https://github.com/oleg-koval/koa-verto/commit/f15bc3dc62b9554ab7ef51c4c9891b3fc80da2cd))
+
 ## [1.2.3](https://github.com/oleg-koval/koa-verto/compare/v1.2.2...v1.2.3) (2019-10-06)
 
 
