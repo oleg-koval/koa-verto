@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/oleg-koval/koa-verto/compare/v1.2.5...v1.2.6) (2021-09-23)
+
+
+### chore
+
+* add code scanning ([#232](https://github.com/oleg-koval/koa-verto/issues/232)) ([643ec54](https://github.com/oleg-koval/koa-verto/commit/643ec54cfe87cf0afe7b22c7940a00e064a5150e))
+
 ## [1.2.5](https://github.com/oleg-koval/koa-verto/compare/v1.2.4...v1.2.5) (2021-09-23)
 
 
