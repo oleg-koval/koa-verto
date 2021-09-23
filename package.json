@@ -5,7 +5,8 @@
   },
   "dependencies": {
     "ramda": "^0.26.0",
-    "semver": "^6.3.0"
+    "semver": "^6.3.0",
+    "snyk": "^1.720.0"
   },
   "description": "Middleware for Koa that adds version header (x-version) to the response",
   "devDependencies": {
@@ -49,6 +50,8 @@
     "nyc": "nyc npm test && nyc report --reporter=text-lcov",
     "semantic-release": "semantic-release",
     "test": "mocha",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect",
     "test:coverage": "npm run test:nyc"
   },
   "types": "index.d.ts",
