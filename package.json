@@ -17,7 +17,7 @@
     "koa": "^2.5.2",
     "mocha": "^5.2.0",
     "nyc": "^14.1.1",
-    "semantic-release": "^15.9.17",
+    "semantic-release": "^18.0.0",
     "semantic-release-npm-github-publish": "^1.5.1",
     "superagent": "^5.1.0"
   },
