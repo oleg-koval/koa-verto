@@ -49,7 +49,7 @@
     "lint": "eslint index.js",
     "nyc": "nyc npm test && nyc report --reporter=text-lcov",
     "semantic-release": "semantic-release",
-    "test": "mocha",
+    "test": "snyk test && mocha",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect",
     "test:coverage": "npm run test:nyc"
