@@ -1,3 +1,22 @@
+## [1.2.5](https://github.com/oleg-koval/koa-verto/compare/v1.2.4...v1.2.5) (2021-09-23)
+
+
+### build
+
+* **deps-dev:** Bump coveralls from 3.0.6 to 3.1.0 ([#164](https://github.com/oleg-koval/koa-verto/issues/164)) ([9d2a540](https://github.com/oleg-koval/koa-verto/commit/9d2a54028511962fae71cc43f93966486b9d5c39))
+* **deps-dev:** Bump semantic-release-npm-github-publish ([#136](https://github.com/oleg-koval/koa-verto/issues/136)) ([e5b0072](https://github.com/oleg-koval/koa-verto/commit/e5b0072c0ee31762a619abb13babb8bca98466e2))
+* **deps:** [Security] Bump glob-parent from 5.1.0 to 5.1.2 ([#215](https://github.com/oleg-koval/koa-verto/issues/215)) ([97c9808](https://github.com/oleg-koval/koa-verto/commit/97c9808cf5d0d9e6af48352846880bc4391b95f3))
+* **deps:** [Security] Bump hosted-git-info from 2.8.2 to 2.8.9 ([#213](https://github.com/oleg-koval/koa-verto/issues/213)) ([93ecd4c](https://github.com/oleg-koval/koa-verto/commit/93ecd4c573c25e589f6cd284c5bf1e6e9e1928d6))
+* **deps:** [Security] Bump normalize-url from 4.5.0 to 4.5.1 ([#218](https://github.com/oleg-koval/koa-verto/issues/218)) ([a54e60f](https://github.com/oleg-koval/koa-verto/commit/a54e60f6424536eb3555a172f0ff5e7f717a0c9a))
+* **deps:** [Security] Bump tar from 4.4.10 to 4.4.15 ([#221](https://github.com/oleg-koval/koa-verto/issues/221)) ([50a6a49](https://github.com/oleg-koval/koa-verto/commit/50a6a49c5039b675d9b2c884fb660051e1fc0fd1))
+
+
+### chore
+
+* add snyk ([#229](https://github.com/oleg-koval/koa-verto/issues/229)) ([d5df55e](https://github.com/oleg-koval/koa-verto/commit/d5df55e172c914c892875276b26c41bfde789594))
+* **deps:** update dependencies ([#228](https://github.com/oleg-koval/koa-verto/issues/228)) ([7001d58](https://github.com/oleg-koval/koa-verto/commit/7001d58e799cfa550cd6c788e74663effeb531e8))
+* update snyk ([#230](https://github.com/oleg-koval/koa-verto/issues/230)) ([63db284](https://github.com/oleg-koval/koa-verto/commit/63db284d6a89c401232f1b6f79b4ede814988b4d))
+
 ## [1.2.4](https://github.com/oleg-koval/koa-verto/compare/v1.2.3...v1.2.4) (2019-11-12)
 
 
