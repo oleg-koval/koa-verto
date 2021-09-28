@@ -1,3 +1,10 @@
+## [1.2.8](https://github.com/oleg-koval/koa-verto/compare/v1.2.7...v1.2.8) (2021-09-28)
+
+
+### build
+
+* **deps-dev:** bump koa from 2.8.2 to 2.13.3 ([#235](https://github.com/oleg-koval/koa-verto/issues/235)) ([2018bd2](https://github.com/oleg-koval/koa-verto/commit/2018bd2c2a816a56c0242ace32940e692034b2a4))
+
 ## [1.2.7](https://github.com/oleg-koval/koa-verto/compare/v1.2.6...v1.2.7) (2021-09-28)
 
 
