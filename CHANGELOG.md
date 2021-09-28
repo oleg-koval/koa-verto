@@ -1,3 +1,12 @@
+## [1.2.10](https://github.com/oleg-koval/koa-verto/compare/v1.2.9...v1.2.10) (2021-09-28)
+
+
+### build
+
+* **deps-dev:** bump mocha from 5.2.0 to 9.1.2 ([#236](https://github.com/oleg-koval/koa-verto/issues/236)) ([cb7bdbd](https://github.com/oleg-koval/koa-verto/commit/cb7bdbd1b26e868aea107d062b485448ba0d9db0))
+* **deps:** bump semver from 6.3.0 to 7.3.5 ([#237](https://github.com/oleg-koval/koa-verto/issues/237)) ([b25f110](https://github.com/oleg-koval/koa-verto/commit/b25f110b274fb53b7c9c21561c79e505da3a92df))
+* **deps:** bump snyk from 1.720.0 to 1.722.0 ([#238](https://github.com/oleg-koval/koa-verto/issues/238)) ([4860450](https://github.com/oleg-koval/koa-verto/commit/486045008cddfe7b6c35fbed8dd663b74bfa2698))
+
 ## [1.2.9](https://github.com/oleg-koval/koa-verto/compare/v1.2.8...v1.2.9) (2021-09-28)
 
 
