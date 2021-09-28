@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/oleg-koval/koa-verto/compare/v1.2.8...v1.2.9) (2021-09-28)
+
+
+### build
+
+* **deps-dev:** bump nyc from 14.1.1 to 15.1.0 ([#234](https://github.com/oleg-koval/koa-verto/issues/234)) ([772dd35](https://github.com/oleg-koval/koa-verto/commit/772dd354ebf3b9b2966f881cf2580867ee2f6701))
+
 ## [1.2.8](https://github.com/oleg-koval/koa-verto/compare/v1.2.7...v1.2.8) (2021-09-28)
 
 
