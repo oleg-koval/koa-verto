@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/oleg-koval/koa-verto/compare/v1.2.6...v1.2.7) (2021-09-28)
+
+
+### build
+
+* **deps-dev:** bump superagent from 5.1.0 to 6.1.0 ([#233](https://github.com/oleg-koval/koa-verto/issues/233)) ([841707f](https://github.com/oleg-koval/koa-verto/commit/841707f042b4b146ff4221f5cb5910446f8a2601))
+
 ## [1.2.6](https://github.com/oleg-koval/koa-verto/compare/v1.2.5...v1.2.6) (2021-09-23)
 
 

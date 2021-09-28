@@ -55,5 +55,5 @@
     "test:coverage": "npm run test:nyc"
   },
   "types": "index.d.ts",
-  "version": "1.2.6"
+  "version": "1.2.7"
 }
