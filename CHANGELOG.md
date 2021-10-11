@@ -1,3 +1,10 @@
+## [1.2.11](https://github.com/oleg-koval/koa-verto/compare/v1.2.10...v1.2.11) (2021-10-11)
+
+
+### build
+
+* **deps:** bump snyk from 1.722.0 to 1.733.0 ([#240](https://github.com/oleg-koval/koa-verto/issues/240)) ([b948893](https://github.com/oleg-koval/koa-verto/commit/b948893762e9f716df644687cbfc5324b15d9b71))
+
 ## [1.2.10](https://github.com/oleg-koval/koa-verto/compare/v1.2.9...v1.2.10) (2021-09-28)
 
 
