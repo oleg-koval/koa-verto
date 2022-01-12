@@ -4,7 +4,7 @@
     "url": "https://github.com/oleg-koval/koa-verto/issues"
   },
   "dependencies": {
-    "ramda": "^0.26.0",
+    "ramda": "^0.27.2",
     "semver": "^7.3.5",
     "snyk": "^1.720.0"
   },
