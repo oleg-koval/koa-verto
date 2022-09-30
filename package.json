@@ -6,7 +6,7 @@
   "dependencies": {
     "ramda": "^0.26.0",
     "semver": "^7.3.5",
-    "snyk": "^1.720.0"
+    "snyk": "^1.996.0"
   },
   "description": "Middleware for Koa that adds version header (x-version) to the response",
   "devDependencies": {
