@@ -19,7 +19,7 @@
     "nyc": "^15.1.0",
     "semantic-release": "^18.0.0",
     "semantic-release-npm-github-publish": "^1.5.1",
-    "superagent": "^6.1.0"
+    "superagent": "^8.0.8"
   },
   "homepage": "https://github.com/oleg-koval/koa-verto#readme",
   "keywords": [
